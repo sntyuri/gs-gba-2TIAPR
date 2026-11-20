@@ -1,0 +1,10 @@
+Global Solution 2026.2 - Governança em IA e Business Analytics - 2TIAPR
+
+Integrantes:
+Yuri Quirino - RM 568512
+Leonardo Barros - RM 566788
+Marcelo Augusto - RM 567176
+
+Vídeo (YouTube, não listado): https://youtu.be/25fgZ2l0W2o
+Repositório (GitHub): https://github.com/sntyuri/gs-gba-2TIAPR
+Documento: governanca-gs-2026-2-2tiapr.pdf
