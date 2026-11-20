@@ -21,15 +21,15 @@ Este repositório reúne todas as entregas do grupo na Global Solution 2026.2, u
 
 | Pasta | Disciplina | Responsável | Frente |
 |---|---|---|---|
-| 01 | Physical Computing, Embedded AI, Robotics & Cognitive IoT | Leonardo | Monitor de Pavimento |
-| 02 | Visão Computacional | Leonardo | Monitor de Pavimento |
-| 03 | Generative AI and Advanced Nets | Leonardo | Monitor de Pavimento |
-| 04 | Front End & Mobile Development | Grupo | Zela |
-| 05 | AI for Robotic Process Automation | Marcelo | Zela |
-| 06 | Fábrica de Corpus (PLN) | Marcelo | Não integrada |
-| 07 | Cluster Computing, Computação Neuromórfica e Supercomputadores | Yuri | Estudo sobre o Monitor |
-| 08 | Computação Quântica | Yuri | Estudo sobre o Monitor |
-| 09 | Governança em IA e Business Analytics | Yuri | Integração |
+| `01-iot` | Physical Computing, Embedded AI, Robotics & Cognitive IoT | Leonardo | Monitor de Pavimento |
+| `02-visao-computacional` | Visão Computacional | Leonardo | Monitor de Pavimento |
+| `03-generative-ai` | Generative AI and Advanced Nets | Leonardo | Monitor de Pavimento |
+| `04-front-end` | Front End & Mobile Development | Grupo | Zela |
+| `05-rpa` | AI for Robotic Process Automation | Marcelo | Zela |
+| `06-fabrica-de-corpus` | Fábrica de Corpus (PLN) | Marcelo | Não integrada |
+| `07-neuromorfica` | Cluster Computing, Computação Neuromórfica e Supercomputadores | Yuri | Estudo sobre o Monitor |
+| `08-quantica` | Computação Quântica | Yuri | Estudo sobre o Monitor |
+| `09-governanca` | Governança em IA e Business Analytics | Yuri | Integração |
 
 ## O que está integrado
 

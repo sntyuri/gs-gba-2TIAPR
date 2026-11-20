@@ -1,0 +1,31 @@
+============================= test session starts ==============================
+platform linux -- Python 3.13.18, pytest-9.1.1, pluggy-1.6.0 -- /usr/local/bin/python3
+collecting ... collected 25 items
+
+tests/test_robo.py::test_remove_cpf_telefone_e_email PASSED              [  4%]
+tests/test_robo.py::test_nao_confunde_numero_de_casa_ano_ou_linha_de_onibus PASSED [  8%]
+tests/test_robo.py::test_regras_iguais_as_do_aplicativo[Tem um fio solto ca\xeddo na cal\xe7ada soltando fa\xedsca perto da creche-iluminacao-urgente] PASSED [ 12%]
+tests/test_robo.py::test_regras_iguais_as_do_aplicativo[Buraco enorme na avenida principal-vias-media] PASSED [ 16%]
+tests/test_robo.py::test_regras_iguais_as_do_aplicativo[Tem lixo e entulho acumulados no terreno baldio da esquina.-residuos-baixa] PASSED [ 20%]
+tests/test_robo.py::test_regras_iguais_as_do_aplicativo[Sem\xe1foro apagado no cruzamento da avenida, quase teve acidente-transito-urgente] PASSED [ 24%]
+tests/test_robo.py::test_chuva_forte_sobe_a_prioridade_de_drenagem_mas_nao_de_barulho PASSED [ 28%]
+tests/test_robo.py::test_arquivos_ruins_vao_para_a_quarentena_e_os_bons_sao_lidos PASSED [ 32%]
+tests/test_robo.py::test_linhas_invalidas_sao_rejeitadas_com_motivo PASSED [ 36%]
+tests/test_robo.py::test_dados_da_conta_do_cidadao_nao_entram_no_robo PASSED [ 40%]
+tests/test_robo.py::test_fluxo_completo_gera_planilha_emails_e_respostas PASSED [ 44%]
+tests/test_robo.py::test_nenhum_dado_pessoal_chega_a_planilha_email_ou_log PASSED [ 48%]
+tests/test_robo.py::test_rodar_duas_vezes_nao_duplica_encaminhamento PASSED [ 52%]
+tests/test_robo.py::test_pasta_vazia_nao_e_erro PASSED                   [ 56%]
+tests/test_robo.py::test_api_de_clima_fora_do_ar_tenta_de_novo_e_segue PASSED [ 60%]
+tests/test_robo.py::test_api_de_clima_com_resposta_invalida_e_tratada PASSED [ 64%]
+tests/test_robo.py::test_chuva_forte_e_usada_no_fluxo PASSED             [ 68%]
+tests/test_robo.py::test_smtp_fora_do_ar_grava_emails_pendentes PASSED   [ 72%]
+tests/test_robo.py::test_smtp_sem_senha_configurada_nao_tenta_enviar PASSED [ 76%]
+tests/test_robo.py::test_sem_modelo_e_sem_treino_usa_as_regras PASSED    [ 80%]
+tests/test_robo.py::test_modelo_salvo_corrompido_e_treinado_de_novo PASSED [ 84%]
+tests/test_robo.py::test_erro_ao_gravar_planilha_nao_marca_pedidos_como_tratados PASSED [ 88%]
+tests/test_robo.py::test_execucao_em_dobro_e_bloqueada PASSED            [ 92%]
+tests/test_robo.py::test_relato_que_parece_formula_nao_e_executado_no_excel PASSED [ 96%]
+tests/test_robo.py::test_trava_e_liberada PASSED                         [100%]
+
+============================== 25 passed in 5.04s ==============================

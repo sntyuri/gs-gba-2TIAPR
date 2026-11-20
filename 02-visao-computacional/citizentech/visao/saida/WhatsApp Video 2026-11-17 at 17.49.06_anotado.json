@@ -1,0 +1,48 @@
+{
+  "video": "WhatsApp Video 2026-11-17 at 17.49.06.mp4",
+  "saida": "/home/leo/GS-FIAP-Go-Horse-/citizentech/visao/saida/WhatsApp Video 2026-11-17 at 17.49.06_anotado.mp4",
+  "resolucao": "848x478",
+  "fps_video": 29.99,
+  "frames_lidos": 1474,
+  "frames_processados": 737,
+  "stride": 2,
+  "latencia_media_ms": 36.8,
+  "fps_processamento": 22.36,
+  "tempo_total_s": 33.0,
+  "buracos_rastreados": 7,
+  "buracos_confirmados": 3,
+  "registros_banco": 3,
+  "trecho": "SIM0005",
+  "confirmados": [
+    {
+      "track_id": 5,
+      "confianca": 0.514,
+      "bbox": [
+        67,
+        88,
+        726,
+        343
+      ]
+    },
+    {
+      "track_id": 16,
+      "confianca": 0.605,
+      "bbox": [
+        4,
+        358,
+        191,
+        467
+      ]
+    },
+    {
+      "track_id": 64,
+      "confianca": 0.527,
+      "bbox": [
+        323,
+        57,
+        848,
+        474
+      ]
+    }
+  ]
+}

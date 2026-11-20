@@ -1,0 +1,51 @@
+{
+  "exportadoEm": "2026-11-13T18:20:00.000Z",
+  "conta": {
+    "nome": "Pessoa Fictícia de Teste",
+    "email": "pessoa.ficticia@teste.example",
+    "criadaEm": "2026-11-01T12:00:00.000Z",
+    "consentimentoEm": "2026-11-01T12:00:00.000Z"
+  },
+  "solicitacoes": [
+    {
+      "id": "a1", "protocolo": "ZL-2026-00001", "bairro": "Vila Nova", "referencia": "em frente à creche",
+      "descricao": "Tem um fio solto caído na calçada soltando faísca perto da creche",
+      "status": "encaminhada", "criadoEm": "2026-11-13T08:02:00.000Z"
+    },
+    {
+      "id": "a2", "protocolo": "ZL-2026-00002", "bairro": "Centro", "referencia": "",
+      "descricao": "Buraco enorme na avenida principal, já estourou o pneu de dois carros",
+      "status": "encaminhada", "criadoEm": "2026-11-13T08:40:00.000Z"
+    },
+    {
+      "id": "a3", "protocolo": "ZL-2026-00003", "bairro": "Jardim das Flores", "referencia": "padaria",
+      "descricao": "Tem um bueiro aberto, sem tampa, na calçada da padaria. Uma criança quase caiu hoje cedo.",
+      "status": "encaminhada", "criadoEm": "2026-11-13T09:15:00.000Z"
+    },
+    {
+      "id": "a4", "protocolo": "ZL-2026-00004", "bairro": "Centro", "referencia": "",
+      "descricao": "Preciso de ajuda com um problema aqui perto de casa, ninguém resolve.",
+      "status": "triagem", "criadoEm": "2026-11-13T10:05:00.000Z"
+    },
+    {
+      "id": "a5", "protocolo": "ZL-2026-00005", "bairro": "Parque Industrial", "referencia": "",
+      "descricao": "O poste em frente à escola está apagado há duas semanas. A rua fica muito escura e perigosa à noite. Meu telefone é (11) 91234-5678 e meu CPF é 529.982.247-25.",
+      "status": "encaminhada", "criadoEm": "2026-11-13T11:30:00.000Z"
+    },
+    {
+      "id": "a6", "protocolo": "ZL-2026-00006", "bairro": "Vila Nova", "referencia": "terreno da esquina",
+      "descricao": "Muita água parada em terreno baldio, cheio de mosquito da dengue",
+      "status": "encaminhada", "criadoEm": "2026-11-13T13:10:00.000Z"
+    },
+    {
+      "id": "a7", "protocolo": "ZL-2026-00007", "bairro": "Centro", "referencia": "cruzamento da avenida",
+      "descricao": "Semáforo apagado no cruzamento da avenida, quase teve acidente",
+      "status": "encaminhada", "criadoEm": "2026-11-13T14:45:00.000Z"
+    },
+    {
+      "id": "a8", "protocolo": "ZL-2026-00008", "bairro": "Jardim das Flores", "referencia": "",
+      "descricao": "A rua alaga toda vez que chove porque a boca de lobo está entupida de lixo",
+      "status": "encaminhada", "criadoEm": "2026-11-13T15:20:00.000Z"
+    }
+  ]
+}

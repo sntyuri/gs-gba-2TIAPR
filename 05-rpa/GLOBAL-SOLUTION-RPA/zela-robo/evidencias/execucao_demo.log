@@ -1,0 +1,60 @@
+6 arquivos de exemplo copiados para entrada
+2026-11-15 21:56:17 | INFO    | === Execução 20261115-215617 iniciada ===
+2026-11-15 21:56:17 | WARNING | FALHA TRATADA | arquivo anotacoes.txt enviado para a quarentena: formato não aceito (.txt)
+2026-11-15 21:56:17 | INFO    | Arquivo lido: balcao_atendimento.xlsx (6 linhas)
+2026-11-15 21:56:17 | INFO    | Arquivo lido: central_156.csv (13 linhas)
+2026-11-15 21:56:17 | WARNING | FALHA TRATADA | arquivo exportacao_corrompida.json enviado para a quarentena: JSON corrompido (Unterminated string starting at, linha 1)
+2026-11-15 21:56:17 | INFO    | Arquivo lido: meus-dados-zela.json (8 linhas)
+2026-11-15 21:56:17 | WARNING | FALHA TRATADA | arquivo planilha_sem_relato.csv enviado para a quarentena: coluna obrigatória ausente: relato/descrição
+2026-11-15 21:56:17 | WARNING | FALHA TRATADA | linha rejeitada em central_156.csv (156-88103): relato vazio
+2026-11-15 21:56:17 | WARNING | FALHA TRATADA | linha rejeitada em central_156.csv (156-88105): relato com menos de 15 caracteres
+2026-11-15 21:56:17 | WARNING | FALHA TRATADA | linha rejeitada em central_156.csv (156-88101): repetida no mesmo lote
+2026-11-15 21:56:17 | WARNING | Previsão do tempo falhou (ProxyError), tentativa 1 de 3. Nova tentativa em 1 s.
+2026-11-15 21:56:19 | WARNING | Previsão do tempo falhou (ProxyError), tentativa 2 de 3. Nova tentativa em 2 s.
+2026-11-15 21:56:21 | ERROR   | FALHA TRATADA | previsão do tempo indisponível após 3 tentativas (ProxyError). Seguindo sem o ajuste de chuva.
+2026-11-15 21:56:21 | INFO    | Modelo treinado com treino.csv e salvo em triagem.joblib
+2026-11-15 21:56:21 | INFO    | Decisão | ZR-2026-00001 | arvores | confiança 97% | prioridade urgente | destino: Secretaria do Verde e Meio Ambiente
+2026-11-15 21:56:21 | INFO    | Decisão | 156-88104 | arvores | confiança 100% | prioridade urgente | destino: Secretaria do Verde e Meio Ambiente
+2026-11-15 21:56:21 | INFO    | Decisão | ZL-2026-00001 | iluminacao | confiança 63% | prioridade urgente | destino: Departamento de Iluminação Pública
+2026-11-15 21:56:21 | INFO    | Decisão | ZL-2026-00003 | agua | confiança 90% | prioridade urgente | destino: Companhia de Saneamento e Drenagem
+2026-11-15 21:56:21 | INFO    | Decisão | ZL-2026-00007 | transito | confiança 98% | prioridade urgente | destino: Departamento de Trânsito e Sinalização
+2026-11-15 21:56:21 | INFO    | Decisão | ZR-2026-00002 | agua | confiança 82% | prioridade alta | destino: Companhia de Saneamento e Drenagem
+2026-11-15 21:56:21 | INFO    | Decisão | 156-88108 | saude | confiança 98% | prioridade alta | destino: Vigilância em Saúde Ambiental
+2026-11-15 21:56:21 | INFO    | Decisão | 156-88111 | transito | confiança 96% | prioridade alta | destino: Departamento de Trânsito e Sinalização
+2026-11-15 21:56:21 | INFO    | Decisão | ZL-2026-00005 | iluminacao | confiança 70% | prioridade alta | destino: Departamento de Iluminação Pública
+2026-11-15 21:56:21 | INFO    | Decisão | ZL-2026-00008 | agua | confiança 99% | prioridade alta | destino: Companhia de Saneamento e Drenagem
+2026-11-15 21:56:21 | INFO    | Decisão | ZR-2026-00003 | acessibilidade | confiança 95% | prioridade alta | destino: Secretaria da Pessoa com Deficiência e Acessibilidade
+2026-11-15 21:56:21 | INFO    | Decisão | 156-88107 | acessibilidade | confiança 98% | prioridade alta | destino: Secretaria da Pessoa com Deficiência e Acessibilidade
+2026-11-15 21:56:21 | INFO    | Decisão | 156-88109 | agua | confiança 92% | prioridade media | destino: Companhia de Saneamento e Drenagem
+2026-11-15 21:56:21 | INFO    | Decisão | ZL-2026-00006 | saude | confiança 98% | prioridade media | destino: Vigilância em Saúde Ambiental
+2026-11-15 21:56:21 | INFO    | Decisão | 156-88101 | residuos | confiança 99% | prioridade media | destino: Serviço de Limpeza Urbana
+2026-11-15 21:56:21 | INFO    | Decisão | 156-88102 | transporte | confiança 100% | prioridade media | destino: Secretaria de Mobilidade e Transportes
+2026-11-15 21:56:21 | INFO    | Decisão | 156-88110 | outros | confiança 30% | prioridade media | destino: Central de Atendimento ao Cidadão | REVISÃO HUMANA (assunto não reconhecido pela IA)
+2026-11-15 21:56:21 | INFO    | Decisão | ZL-2026-00002 | vias | confiança 81% | prioridade media | destino: Secretaria de Obras e Vias Públicas
+2026-11-15 21:56:21 | INFO    | Decisão | ZR-2026-00004 | barulho | confiança 95% | prioridade baixa | destino: Fiscalização de Posturas Municipais
+2026-11-15 21:56:21 | INFO    | Decisão | ZR-2026-00005 | transporte | confiança 99% | prioridade baixa | destino: Secretaria de Mobilidade e Transportes
+2026-11-15 21:56:21 | INFO    | Decisão | ZR-2026-00006 | outros | confiança 94% | prioridade baixa | destino: Central de Atendimento ao Cidadão | REVISÃO HUMANA (assunto não reconhecido pela IA)
+2026-11-15 21:56:21 | INFO    | Decisão | 156-88106 | barulho | confiança 99% | prioridade baixa | destino: Fiscalização de Posturas Municipais
+2026-11-15 21:56:21 | INFO    | Decisão | ZL-2026-00004 | outros | confiança 96% | prioridade baixa | destino: Central de Atendimento ao Cidadão | REVISÃO HUMANA (assunto não reconhecido pela IA)
+2026-11-15 21:56:21 | INFO    | Decisão | 156-88112 | vias | confiança 24% | prioridade baixa | destino: Central de Atendimento ao Cidadão | REVISÃO HUMANA (confiança abaixo de 50%)
+2026-11-15 21:56:22 | INFO    | E-mails gravados em arquivo (.eml): 11
+2026-11-15 21:56:22 | INFO    | === Execução 20261115-215617 encerrada: ok | lidos 27, novos 24, encaminhados 20, revisão 4, rejeitados 3, falhas tratadas 7, 4.7 s ===
+
+Resultado em: saida/20261115-215617
+
+##### SEGUNDA EXECUÇÃO, com os mesmos arquivos (idempotência) #####
+6 arquivos de exemplo copiados para entrada
+2026-11-15 21:56:23 | INFO    | === Execução 20261115-215623 iniciada ===
+2026-11-15 21:56:23 | WARNING | FALHA TRATADA | arquivo anotacoes.txt enviado para a quarentena: formato não aceito (.txt)
+2026-11-15 21:56:23 | INFO    | Arquivo lido: balcao_atendimento.xlsx (6 linhas)
+2026-11-15 21:56:23 | INFO    | Arquivo lido: central_156.csv (13 linhas)
+2026-11-15 21:56:23 | WARNING | FALHA TRATADA | arquivo exportacao_corrompida.json enviado para a quarentena: JSON corrompido (Unterminated string starting at, linha 1)
+2026-11-15 21:56:23 | INFO    | Arquivo lido: meus-dados-zela.json (8 linhas)
+2026-11-15 21:56:23 | WARNING | FALHA TRATADA | arquivo planilha_sem_relato.csv enviado para a quarentena: coluna obrigatória ausente: relato/descrição
+2026-11-15 21:56:23 | WARNING | FALHA TRATADA | linha rejeitada em central_156.csv (156-88103): relato vazio
+2026-11-15 21:56:23 | WARNING | FALHA TRATADA | linha rejeitada em central_156.csv (156-88105): relato com menos de 15 caracteres
+2026-11-15 21:56:23 | WARNING | FALHA TRATADA | linha rejeitada em central_156.csv (156-88101): repetida no mesmo lote
+2026-11-15 21:56:23 | INFO    | Idempotência: 24 pedido(s) já tratados em execuções anteriores foram ignorados.
+2026-11-15 21:56:23 | INFO    | === Execução 20261115-215623 encerrada: ok | lidos 27, novos 0, encaminhados 0, revisão 0, rejeitados 3, falhas tratadas 6, 0.3 s ===
+
+Resultado em: saida/20261115-215623

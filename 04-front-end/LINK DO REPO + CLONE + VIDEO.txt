@@ -1,0 +1,5 @@
+clone: https://github.com/mxrcelorrr/GLOBAL-SOLUTION-FRONT-END.git
+
+link: https://github.com/mxrcelorrr/GLOBAL-SOLUTION-FRONT-END
+
+video: https://www.youtube.com/watch?v=AWBrr_YskyI

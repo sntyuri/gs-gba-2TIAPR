@@ -1,0 +1,134 @@
+{
+ "modelo": "YOLO11n (Ultralytics 8.4) ajustado a partir do COCO",
+ "parametros_M": 2.6,
+ "gflops": 6.6,
+ "epocas": 30,
+ "melhor_epoca": 27,
+ "imgsz": 640,
+ "dataset": [
+  {
+   "conjunto": "train",
+   "imagens": 501,
+   "fotos de origem": 428,
+   "caixas": 793,
+   "caixas/imagem": 1.58,
+   "resolução": "640x640"
+  },
+  {
+   "conjunto": "val",
+   "imagens": 92,
+   "fotos de origem": 92,
+   "caixas": 187,
+   "caixas/imagem": 2.03,
+   "resolução": "640x640"
+  },
+  {
+   "conjunto": "test",
+   "imagens": 93,
+   "fotos de origem": 93,
+   "caixas": 206,
+   "caixas/imagem": 2.22,
+   "resolução": "640x640"
+  },
+  {
+   "conjunto": "test_externo",
+   "imagens": 88,
+   "fotos de origem": 88,
+   "caixas": 232,
+   "caixas/imagem": 2.64,
+   "resolução": "640x640"
+  }
+ ],
+ "teste": {
+  "conjunto": "val_teste",
+  "precisão": 0.7545,
+  "recall": 0.6262,
+  "mAP@0,5": 0.7032,
+  "mAP@0,5:0,95": 0.4207,
+  "VP": 132,
+  "FP": 54,
+  "FN": 74
+ },
+ "teste_externo": {
+  "conjunto": "val_teste_externo",
+  "precisão": 0.5958,
+  "recall": 0.319,
+  "mAP@0,5": 0.3681,
+  "mAP@0,5:0,95": 0.1664,
+  "VP": 69,
+  "FP": 35,
+  "FN": 163
+ },
+ "limiar": {
+  "exibicao": 0.25,
+  "registro": 0.5,
+  "melhor_f1": {
+   "limiar": 0.25,
+   "F1": 0.7125
+  },
+  "em_0_5": {
+   "limiar": 0.5,
+   "precisão": 0.8559,
+   "recall": 0.4903,
+   "F1": 0.6235,
+   "VP": 101,
+   "FP": 17,
+   "FN": 105
+  }
+ },
+ "latencia": [
+  {
+   "imgsz": 320,
+   "n": 30,
+   "latencia_media_ms": 37.41,
+   "latencia_p95_ms": 47.02,
+   "fps": 26.73,
+   "hardware": "Intel(R) Core(TM) 7 240H"
+  },
+  {
+   "imgsz": 480,
+   "n": 30,
+   "latencia_media_ms": 49.43,
+   "latencia_p95_ms": 53.92,
+   "fps": 20.23,
+   "hardware": "Intel(R) Core(TM) 7 240H"
+  },
+  {
+   "imgsz": 640,
+   "n": 30,
+   "latencia_media_ms": 79.34,
+   "latencia_p95_ms": 87.03,
+   "fps": 12.6,
+   "hardware": "Intel(R) Core(TM) 7 240H"
+  }
+ ],
+ "hardware": {
+  "cpu": "Intel(R) Core(TM) 7 240H",
+  "nucleos_fisicos": 10,
+  "threads": 16,
+  "ram_gb": 33.2,
+  "gpu": "nenhuma (CUDA indisponível)",
+  "so": "Linux-7.0.0-42-generic-x86_64-with-glibc2.39",
+  "python": "3.12.3",
+  "torch": "2.15.0+cpu",
+  "ultralytics": "8.4.215",
+  "opencv": "5.1.0",
+  "threads_torch": 10
+ },
+ "video": {
+  "vídeo": "WhatsApp Video 2026-11-17 at 17.49.06.mp4",
+  "resolução": "848x478",
+  "fps do vídeo": 30.0,
+  "quadros lidos": 1474,
+  "quadros processados": 737,
+  "stride": 2,
+  "latência média (ms/quadro)": 58.1,
+  "FPS de processamento": 13.99,
+  "tempo total (s)": 52.7,
+  "buracos rastreados": 7,
+  "buracos confirmados (≥0,5)": 3,
+  "registros gravados no banco": 3,
+  "trecho": "SIM0005 · Via filmada pelo grupo (vídeo de 17/11/2026)",
+  "pontuação antes → depois": "0.0 (sem_registro) → 6.0 (media)"
+ }
+}

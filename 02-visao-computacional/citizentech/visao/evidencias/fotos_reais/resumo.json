@@ -1,0 +1,122 @@
+[
+ {
+  "foto": "foto_real_01",
+  "arquivo_original": "WhatsApp Image 2026-11-19 at 08.26.07(1).jpeg",
+  "resolucao": "900x1600",
+  "latencia_ms": 7887.8,
+  "confirmadas_>=0.5": 1,
+  "incertas_0.25-0.5": 2,
+  "confiancas": [
+   0.67,
+   0.44,
+   0.26
+  ]
+ },
+ {
+  "foto": "foto_real_02",
+  "arquivo_original": "WhatsApp Image 2026-11-19 at 08.26.07(2).jpeg",
+  "resolucao": "900x1600",
+  "latencia_ms": 115.3,
+  "confirmadas_>=0.5": 0,
+  "incertas_0.25-0.5": 1,
+  "confiancas": [
+   0.25
+  ]
+ },
+ {
+  "foto": "foto_real_03",
+  "arquivo_original": "WhatsApp Image 2026-11-19 at 08.26.07.jpeg",
+  "resolucao": "900x1600",
+  "latencia_ms": 112.3,
+  "confirmadas_>=0.5": 1,
+  "incertas_0.25-0.5": 0,
+  "confiancas": [
+   0.75
+  ]
+ },
+ {
+  "foto": "foto_real_04",
+  "arquivo_original": "WhatsApp Image 2026-11-19 at 08.26.08(1).jpeg",
+  "resolucao": "900x1600",
+  "latencia_ms": 75.1,
+  "confirmadas_>=0.5": 1,
+  "incertas_0.25-0.5": 0,
+  "confiancas": [
+   0.67
+  ]
+ },
+ {
+  "foto": "foto_real_05",
+  "arquivo_original": "WhatsApp Image 2026-11-19 at 08.26.08(2).jpeg",
+  "resolucao": "900x1600",
+  "latencia_ms": 56.9,
+  "confirmadas_>=0.5": 0,
+  "incertas_0.25-0.5": 2,
+  "confiancas": [
+   0.49,
+   0.47
+  ]
+ },
+ {
+  "foto": "foto_real_06",
+  "arquivo_original": "WhatsApp Image 2026-11-19 at 08.26.08(3).jpeg",
+  "resolucao": "900x1600",
+  "latencia_ms": 55.7,
+  "confirmadas_>=0.5": 0,
+  "incertas_0.25-0.5": 0,
+  "confiancas": []
+ },
+ {
+  "foto": "foto_real_07",
+  "arquivo_original": "WhatsApp Image 2026-11-19 at 08.26.08(4).jpeg",
+  "resolucao": "900x1600",
+  "latencia_ms": 60.3,
+  "confirmadas_>=0.5": 0,
+  "incertas_0.25-0.5": 1,
+  "confiancas": [
+   0.29
+  ]
+ },
+ {
+  "foto": "foto_real_08",
+  "arquivo_original": "WhatsApp Image 2026-11-19 at 08.26.08.jpeg",
+  "resolucao": "900x1600",
+  "latencia_ms": 100.2,
+  "confirmadas_>=0.5": 0,
+  "incertas_0.25-0.5": 0,
+  "confiancas": []
+ },
+ {
+  "foto": "foto_real_09",
+  "arquivo_original": "WhatsApp Image 2026-11-19 at 08.26.09(1).jpeg",
+  "resolucao": "900x1600",
+  "latencia_ms": 62.4,
+  "confirmadas_>=0.5": 1,
+  "incertas_0.25-0.5": 1,
+  "confiancas": [
+   0.61,
+   0.43
+  ]
+ },
+ {
+  "foto": "foto_real_10",
+  "arquivo_original": "WhatsApp Image 2026-11-19 at 08.26.09.jpeg",
+  "resolucao": "900x1600",
+  "latencia_ms": 56.9,
+  "confirmadas_>=0.5": 2,
+  "incertas_0.25-0.5": 0,
+  "confiancas": [
+   0.64,
+   0.53
+  ]
+ },
+ {
+  "foto": "foto_real_11",
+  "arquivo_original": "image_1.jpeg",
+  "resolucao": "900x1600",
+  "latencia_ms": 54.6,
+  "confirmadas_>=0.5": 0,
+  "incertas_0.25-0.5": 0,
+  "confiancas": []
+ }
+]

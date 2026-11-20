@@ -1,0 +1,7 @@
+clone: https://github.com/mxrcelorrr/GLOBAL-SOLUTION-RPA.git
+
+link: https://github.com/mxrcelorrr/GLOBAL-SOLUTION-RPA
+
+video: https://www.youtube.com/watch?v=-C7ik9AzzbY
+
+README COM INTEGRANTES NO LINK DO REPOSITÓRIO

@@ -1,0 +1,194 @@
+[
+  {
+    "protocolo": "ZR-2026-00001",
+    "status": "encaminhada",
+    "destino": "Secretaria do Verde e Meio Ambiente",
+    "prioridade": "urgente",
+    "prazoDias": 1,
+    "mensagem": "Recebemos o seu pedido sobre árvores e áreas verdes. Ele foi encaminhado para Secretaria do Verde e Meio Ambiente, com prioridade urgente (há sinais de risco imediato para as pessoas; afeta pessoas mais vulneráveis ou um local sensível; o relato menciona perigo; afeta muita gente ou a circulação). Previsão de resposta: até 1 dia útil. Se houver risco imediato, ligue 193 (Bombeiros) ou 199 (Defesa Civil)."
+  },
+  {
+    "protocolo": "156-88104",
+    "status": "encaminhada",
+    "destino": "Secretaria do Verde e Meio Ambiente",
+    "prioridade": "urgente",
+    "prazoDias": 1,
+    "mensagem": "Recebemos o seu pedido sobre árvores e áreas verdes. Ele foi encaminhado para Secretaria do Verde e Meio Ambiente, com prioridade urgente (há sinais de risco imediato para as pessoas; o relato menciona perigo). Previsão de resposta: até 1 dia útil. Se houver risco imediato, ligue 193 (Bombeiros) ou 199 (Defesa Civil)."
+  },
+  {
+    "protocolo": "ZL-2026-00001",
+    "status": "encaminhada",
+    "destino": "Departamento de Iluminação Pública",
+    "prioridade": "urgente",
+    "prazoDias": 1,
+    "mensagem": "Recebemos o seu pedido sobre iluminação e rede elétrica. Ele foi encaminhado para Departamento de Iluminação Pública, com prioridade urgente (há sinais de risco imediato para as pessoas; afeta pessoas mais vulneráveis ou um local sensível). Previsão de resposta: até 1 dia útil. Se houver risco imediato, ligue 193 (Bombeiros) ou 199 (Defesa Civil)."
+  },
+  {
+    "protocolo": "ZL-2026-00003",
+    "status": "encaminhada",
+    "destino": "Companhia de Saneamento e Drenagem",
+    "prioridade": "urgente",
+    "prazoDias": 1,
+    "mensagem": "Recebemos o seu pedido sobre água, esgoto e drenagem. Ele foi encaminhado para Companhia de Saneamento e Drenagem, com prioridade urgente (há sinais de risco imediato para as pessoas; afeta pessoas mais vulneráveis ou um local sensível). Previsão de resposta: até 1 dia útil. Se houver risco imediato, ligue 193 (Bombeiros) ou 199 (Defesa Civil)."
+  },
+  {
+    "protocolo": "ZL-2026-00007",
+    "status": "encaminhada",
+    "destino": "Departamento de Trânsito e Sinalização",
+    "prioridade": "urgente",
+    "prazoDias": 1,
+    "mensagem": "Recebemos o seu pedido sobre trânsito e sinalização. Ele foi encaminhado para Departamento de Trânsito e Sinalização, com prioridade urgente (há sinais de risco imediato para as pessoas). Previsão de resposta: até 1 dia útil. Se houver risco imediato, ligue 193 (Bombeiros) ou 199 (Defesa Civil)."
+  },
+  {
+    "protocolo": "ZR-2026-00002",
+    "status": "encaminhada",
+    "destino": "Companhia de Saneamento e Drenagem",
+    "prioridade": "alta",
+    "prazoDias": 2,
+    "mensagem": "Recebemos o seu pedido sobre água, esgoto e drenagem. Ele foi encaminhado para Companhia de Saneamento e Drenagem, com prioridade alta (afeta pessoas mais vulneráveis ou um local sensível; o problema já dura bastante tempo ou se repete). Previsão de resposta: até 2 dias úteis."
+  },
+  {
+    "protocolo": "156-88108",
+    "status": "encaminhada",
+    "destino": "Vigilância em Saúde Ambiental",
+    "prioridade": "alta",
+    "prazoDias": 2,
+    "mensagem": "Recebemos o seu pedido sobre saúde ambiental e zoonoses. Ele foi encaminhado para Vigilância em Saúde Ambiental, com prioridade alta (afeta pessoas mais vulneráveis ou um local sensível). Previsão de resposta: até 2 dias úteis."
+  },
+  {
+    "protocolo": "156-88111",
+    "status": "encaminhada",
+    "destino": "Departamento de Trânsito e Sinalização",
+    "prioridade": "alta",
+    "prazoDias": 2,
+    "mensagem": "Recebemos o seu pedido sobre trânsito e sinalização. Ele foi encaminhado para Departamento de Trânsito e Sinalização, com prioridade alta (afeta pessoas mais vulneráveis ou um local sensível). Previsão de resposta: até 2 dias úteis."
+  },
+  {
+    "protocolo": "ZL-2026-00005",
+    "status": "encaminhada",
+    "destino": "Departamento de Iluminação Pública",
+    "prioridade": "alta",
+    "prazoDias": 2,
+    "mensagem": "Recebemos o seu pedido sobre iluminação e rede elétrica. Ele foi encaminhado para Departamento de Iluminação Pública, com prioridade alta (afeta pessoas mais vulneráveis ou um local sensível; o relato menciona perigo; o problema já dura bastante tempo ou se repete). Previsão de resposta: até 2 dias úteis."
+  },
+  {
+    "protocolo": "ZL-2026-00008",
+    "status": "encaminhada",
+    "destino": "Companhia de Saneamento e Drenagem",
+    "prioridade": "alta",
+    "prazoDias": 2,
+    "mensagem": "Recebemos o seu pedido sobre água, esgoto e drenagem. Ele foi encaminhado para Companhia de Saneamento e Drenagem, com prioridade alta (afeta muita gente ou a circulação; o problema já dura bastante tempo ou se repete). Previsão de resposta: até 2 dias úteis."
+  },
+  {
+    "protocolo": "ZR-2026-00003",
+    "status": "encaminhada",
+    "destino": "Secretaria da Pessoa com Deficiência e Acessibilidade",
+    "prioridade": "alta",
+    "prazoDias": 4,
+    "mensagem": "Recebemos o seu pedido sobre acessibilidade. Ele foi encaminhado para Secretaria da Pessoa com Deficiência e Acessibilidade, com prioridade alta (afeta pessoas mais vulneráveis ou um local sensível). Previsão de resposta: até 4 dias úteis."
+  },
+  {
+    "protocolo": "156-88107",
+    "status": "encaminhada",
+    "destino": "Secretaria da Pessoa com Deficiência e Acessibilidade",
+    "prioridade": "alta",
+    "prazoDias": 4,
+    "mensagem": "Recebemos o seu pedido sobre acessibilidade. Ele foi encaminhado para Secretaria da Pessoa com Deficiência e Acessibilidade, com prioridade alta (afeta pessoas mais vulneráveis ou um local sensível). Previsão de resposta: até 4 dias úteis."
+  },
+  {
+    "protocolo": "156-88109",
+    "status": "encaminhada",
+    "destino": "Companhia de Saneamento e Drenagem",
+    "prioridade": "media",
+    "prazoDias": 3,
+    "mensagem": "Recebemos o seu pedido sobre água, esgoto e drenagem. Ele foi encaminhado para Companhia de Saneamento e Drenagem, com prioridade média (sem sinais de risco imediato no relato). Previsão de resposta: até 3 dias úteis."
+  },
+  {
+    "protocolo": "ZL-2026-00006",
+    "status": "encaminhada",
+    "destino": "Vigilância em Saúde Ambiental",
+    "prioridade": "media",
+    "prazoDias": 3,
+    "mensagem": "Recebemos o seu pedido sobre saúde ambiental e zoonoses. Ele foi encaminhado para Vigilância em Saúde Ambiental, com prioridade média (sem sinais de risco imediato no relato). Previsão de resposta: até 3 dias úteis."
+  },
+  {
+    "protocolo": "156-88101",
+    "status": "encaminhada",
+    "destino": "Serviço de Limpeza Urbana",
+    "prioridade": "media",
+    "prazoDias": 4,
+    "mensagem": "Recebemos o seu pedido sobre lixo e limpeza urbana. Ele foi encaminhado para Serviço de Limpeza Urbana, com prioridade média (o problema já dura bastante tempo ou se repete). Previsão de resposta: até 4 dias úteis."
+  },
+  {
+    "protocolo": "156-88102",
+    "status": "encaminhada",
+    "destino": "Secretaria de Mobilidade e Transportes",
+    "prioridade": "media",
+    "prazoDias": 7,
+    "mensagem": "Recebemos o seu pedido sobre transporte público. Ele foi encaminhado para Secretaria de Mobilidade e Transportes, com prioridade média (afeta pessoas mais vulneráveis ou um local sensível). Previsão de resposta: até 7 dias úteis."
+  },
+  {
+    "protocolo": "156-88110",
+    "status": "triagem",
+    "destino": "Central de Atendimento ao Cidadão",
+    "prioridade": "media",
+    "prazoDias": 7,
+    "mensagem": "Recebemos o seu pedido. Para não encaminhar para o lugar errado, uma pessoa da Central de Atendimento vai ler o seu relato e direcionar. Previsão de resposta: até 7 dias úteis."
+  },
+  {
+    "protocolo": "ZL-2026-00002",
+    "status": "encaminhada",
+    "destino": "Secretaria de Obras e Vias Públicas",
+    "prioridade": "media",
+    "prazoDias": 10,
+    "mensagem": "Recebemos o seu pedido sobre ruas e calçadas. Ele foi encaminhado para Secretaria de Obras e Vias Públicas, com prioridade média (afeta muita gente ou a circulação). Previsão de resposta: até 10 dias úteis."
+  },
+  {
+    "protocolo": "ZR-2026-00004",
+    "status": "encaminhada",
+    "destino": "Fiscalização de Posturas Municipais",
+    "prioridade": "baixa",
+    "prazoDias": 11,
+    "mensagem": "Recebemos o seu pedido sobre barulho e perturbação do sossego. Ele foi encaminhado para Fiscalização de Posturas Municipais, com prioridade baixa (sem sinais de risco imediato no relato). Previsão de resposta: até 11 dias úteis."
+  },
+  {
+    "protocolo": "ZR-2026-00005",
+    "status": "encaminhada",
+    "destino": "Secretaria de Mobilidade e Transportes",
+    "prioridade": "baixa",
+    "prazoDias": 11,
+    "mensagem": "Recebemos o seu pedido sobre transporte público. Ele foi encaminhado para Secretaria de Mobilidade e Transportes, com prioridade baixa (sem sinais de risco imediato no relato). Previsão de resposta: até 11 dias úteis."
+  },
+  {
+    "protocolo": "ZR-2026-00006",
+    "status": "triagem",
+    "destino": "Central de Atendimento ao Cidadão",
+    "prioridade": "baixa",
+    "prazoDias": 11,
+    "mensagem": "Recebemos o seu pedido. Para não encaminhar para o lugar errado, uma pessoa da Central de Atendimento vai ler o seu relato e direcionar. Previsão de resposta: até 11 dias úteis."
+  },
+  {
+    "protocolo": "156-88106",
+    "status": "encaminhada",
+    "destino": "Fiscalização de Posturas Municipais",
+    "prioridade": "baixa",
+    "prazoDias": 11,
+    "mensagem": "Recebemos o seu pedido sobre barulho e perturbação do sossego. Ele foi encaminhado para Fiscalização de Posturas Municipais, com prioridade baixa (sem sinais de risco imediato no relato). Previsão de resposta: até 11 dias úteis."
+  },
+  {
+    "protocolo": "ZL-2026-00004",
+    "status": "triagem",
+    "destino": "Central de Atendimento ao Cidadão",
+    "prioridade": "baixa",
+    "prazoDias": 11,
+    "mensagem": "Recebemos o seu pedido. Para não encaminhar para o lugar errado, uma pessoa da Central de Atendimento vai ler o seu relato e direcionar. Previsão de resposta: até 11 dias úteis."
+  },
+  {
+    "protocolo": "156-88112",
+    "status": "triagem",
+    "destino": "Central de Atendimento ao Cidadão",
+    "prioridade": "baixa",
+    "prazoDias": 15,
+    "mensagem": "Recebemos o seu pedido. Para não encaminhar para o lugar errado, uma pessoa da Central de Atendimento vai ler o seu relato e direcionar. Previsão de resposta: até 15 dias úteis."
+  }
+]

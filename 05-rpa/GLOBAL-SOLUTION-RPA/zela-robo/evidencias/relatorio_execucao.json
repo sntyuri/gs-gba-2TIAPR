@@ -1,0 +1,98 @@
+{
+  "execucao": "20261115-215617",
+  "inicio": "2026-11-15T21:56:17",
+  "status": "ok",
+  "lidos": 27,
+  "novos": 24,
+  "ja_processados": 0,
+  "encaminhados": 20,
+  "revisao_humana": 4,
+  "rejeitados": 3,
+  "falhas_tratadas": 7,
+  "falhas": [
+    {
+      "onde": "anotacoes.txt",
+      "motivo": "quarentena: formato não aceito (.txt)"
+    },
+    {
+      "onde": "exportacao_corrompida.json",
+      "motivo": "quarentena: JSON corrompido (Unterminated string starting at, linha 1)"
+    },
+    {
+      "onde": "planilha_sem_relato.csv",
+      "motivo": "quarentena: coluna obrigatória ausente: relato/descrição"
+    },
+    {
+      "onde": "central_156.csv (156-88103)",
+      "motivo": "linha rejeitada: relato vazio"
+    },
+    {
+      "onde": "central_156.csv (156-88105)",
+      "motivo": "linha rejeitada: relato com menos de 15 caracteres"
+    },
+    {
+      "onde": "central_156.csv (156-88101)",
+      "motivo": "linha rejeitada: repetida no mesmo lote"
+    },
+    {
+      "onde": "API de previsão do tempo",
+      "motivo": "API indisponível (ProxyError)"
+    }
+  ],
+  "duracao_s": 4.72,
+  "clima": "indisponível (API indisponível (ProxyError))",
+  "motor_ia": "zela-triagem-ml-v1",
+  "limiar_confianca": 0.5,
+  "urgentes": 5,
+  "dados_pessoais_removidos": 3,
+  "cpu_pct": 0.0,
+  "memoria_pct": 6.8,
+  "memoria_robo_mb": 200.1,
+  "disco_livre_mb": 30666,
+  "emails": "modo arquivo: 0 enviado(s), 11 gravado(s) em arquivo, 0 pendente(s)",
+  "etapas": [
+    {
+      "Tarefa": "1. Coletar arquivos da entrada",
+      "Responsável": "robô",
+      "Duração (s)": 0.06,
+      "Resultado": "3 arquivo(s), 27 linha(s), 3 em quarentena"
+    },
+    {
+      "Tarefa": "2. Validar e descartar repetidos",
+      "Responsável": "robô",
+      "Duração (s)": 0.004,
+      "Resultado": "24 novo(s), 0 já tratado(s), 3 rejeitado(s)"
+    },
+    {
+      "Tarefa": "3. Consultar previsão de chuva (API)",
+      "Responsável": "robô",
+      "Duração (s)": 3.948,
+      "Resultado": "indisponível (API indisponível (ProxyError))"
+    },
+    {
+      "Tarefa": "4. Remover dados pessoais, classificar (IA) e priorizar",
+      "Responsável": "robô",
+      "Duração (s)": 0.327,
+      "Resultado": "20 encaminhado(s), 4 para revisão humana"
+    },
+    {
+      "Tarefa": "5. Avisar os órgãos por e-mail",
+      "Responsável": "robô",
+      "Duração (s)": 0.137,
+      "Resultado": "modo arquivo: 0 enviado(s), 11 gravado(s) em arquivo, 0 pendente(s)"
+    },
+    {
+      "Tarefa": "6. Gerar planilha de triagem e respostas ao cidadão",
+      "Responsável": "robô",
+      "Duração (s)": 0.031,
+      "Resultado": "saida/20261115-215617/triagem_20261115-215617.xlsx"
+    },
+    {
+      "Tarefa": "7. Conferir a fila de revisão",
+      "Responsável": "pessoa da Central",
+      "Duração (s)": "",
+      "Resultado": "4 pedido(s) aguardando"
+    }
+  ],
+  "pasta_saida": "saida/20261115-215617"
+}
